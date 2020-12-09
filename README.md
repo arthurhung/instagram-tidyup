@@ -1,1 +1,1 @@
-# instagram-tidyup
+# Instagram tidying up
